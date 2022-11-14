@@ -1,0 +1,24 @@
+<ModMetaData>
+	<name>I'm Over Here!</name>
+	<author>kathanon</author>
+    <packageId>kathanon.ImOverHere</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Makes events not target outposts with no pawns.
+
+Any owned tile with less than 5% of the wealth of wealthiest owned tile is considered an outpost.</description>
+	<url>https://github.com/kathanon/RimWorld-ImOverHere</url>
+
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId> 
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>

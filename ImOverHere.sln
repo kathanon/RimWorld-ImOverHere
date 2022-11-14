@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EED614D8-719A-4752-A5A4-92D420318A6D}") = "ImOverHere", "Source\ImOverHere.csproj", "{5BC2650B-41CA-4DCE-B29E-846F92FF4808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC2650B-41CA-4DCE-B29E-846F92FF4808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC2650B-41CA-4DCE-B29E-846F92FF4808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC2650B-41CA-4DCE-B29E-846F92FF4808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC2650B-41CA-4DCE-B29E-846F92FF4808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9E0817-831C-49B7-91CE-6C9AA7C90476}
+	EndGlobalSection
+EndGlobal
